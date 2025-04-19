@@ -5,37 +5,48 @@
 </p>
 
 ---
+### 📬 Contact Me
 
-## 🌐 Connect with Me
+Feel free to drop me an email at: [panavagarwal1@email.com](mailto:panavagarwal1@email.com)
+
+<h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
-  <a href="https://github.com/PanavAgarwal-03" target="_blank">
+  <a href="https://github.com/PanavAgarwal-03" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/panav-agarwal-8b07ab249/" target="_blank">
+  <a href="https://www.linkedin.com/in/panav-agarwal-8b07ab249/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://x.com/Panav__Agarwal" target="_blank">
+  <a href="https://x.com/Panav__Agarwal" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="mailto:panavagarwal1@email.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://panavagarwal.com" target="_blank">
+
+  <a href="https://panavagarwal.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
 ---
 
+<h2 align="center">🛠️ What You'll Find Here</h2>
 
-### 🔧 What you'll find here:
-- 📄 My featured projects
-- 🛠️ Experiments and ideas
+- 📄 My featured projects  
+- 🛠️ Experiments and ideas  
+- 🌱 Learning in public  
+- 💡 Cool side projects
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PanavAgarwal-03&show_icons=true&theme=default" alt="Panav's GitHub stats" />
+</p>
 
 ---
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=panavagarwal&label=Profile%20views&color=0e75b6&style=flat" alt="panavagarwal" />
+  <img src="https://komarev.com/ghpvc/?username=PanavAgarwal-03&label=Profile%20views&color=0e75b6&style=flat" alt="panavagarwal" />
 </p>
