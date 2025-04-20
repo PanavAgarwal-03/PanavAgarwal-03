@@ -12,16 +12,15 @@ Feel free to drop me an email at: [panavagarwal1@email.com](mailto:panavagarwal1
 <h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
+  <a href="https://leetcode.com/u/panavagarwal1/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
   <a href="https://github.com/PanavAgarwal-03" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/panav-agarwal-8b07ab249/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://x.com/Panav__Agarwal" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-
   <a href="https://panavagarwal.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
